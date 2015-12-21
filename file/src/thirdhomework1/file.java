@@ -1,3 +1,3 @@
 package thirdhomework1;
-public class file {
+abstract public class file {
 }

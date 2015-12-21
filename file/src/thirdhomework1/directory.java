@@ -1,9 +1,8 @@
 package thirdhomework1;
 
 public class directory {
-    public static void main (String[] args){
-        file first = new file();
-        file second = new file();
-        file third = new file();
+        private file audio = new audio();
+        private file video  = new video();
+        private file picture = new picture();
     }
-}
+
