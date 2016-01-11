@@ -1,8 +1,8 @@
 package thirdhomework2;
 
-public class rosebush {
-       private rose Breanch1 = new rose();
-       private rose Breanch2 = new rose();
-       private rose Breanch3 = new rose();
-    }
+public class Rosebush {
+    private Rose breanch1 = new Rose();
+    private Rose breanch2 = new Rose();
+    private Rose breanch3 = new Rose();
 
+}

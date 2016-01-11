@@ -1,8 +1,8 @@
 package thirdhomework2;
 
-public class bouquet {
-        private flowers astra = new astra();
-        private flowers romashka = new romashka();
-        private flowers tulip = new tulip();
+public class Bouquet {
+        private Flowers astra = new Astra();
+        private Flowers romashka = new Romashka();
+        private Flowers tulip = new Tulip();
     }
 

@@ -1,4 +1,4 @@
 package thirdhomework2;
 
-public class tulip extends flowers{
+public class Tulip extends Flowers{
 }

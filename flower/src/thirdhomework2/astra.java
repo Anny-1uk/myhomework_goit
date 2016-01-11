@@ -1,4 +1,4 @@
 package thirdhomework2;
 
-public class astra extends flowers {
+public class Astra extends Flowers {
 }

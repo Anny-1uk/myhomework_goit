@@ -1,4 +1,4 @@
 package thirdhomework2;
 
-abstract public class flowers {
+public abstract class Flowers {
 }

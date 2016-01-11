@@ -1,4 +1,4 @@
 package thirdhomework2;
 
-public class romashka extends flowers{
+public class Romashka extends Flowers{
 }
