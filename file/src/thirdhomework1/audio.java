@@ -1,4 +1,4 @@
 package thirdhomework1;
 
-public class audio extends file{
+public class Audio extends File{
 }

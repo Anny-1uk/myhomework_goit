@@ -1,8 +1,8 @@
 package thirdhomework1;
 
-public class directory {
-        private file audio = new audio();
-        private file video  = new video();
-        private file picture = new picture();
+public class Directory {
+        private File audio = new Audio();
+        private File video  = new Video();
+        private File picture = new Picture();
     }
 

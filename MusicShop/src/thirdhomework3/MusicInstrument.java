@@ -1,4 +1,4 @@
 package thirdhomework3;
-abstract public class MusicInstrument{
+ public abstract class MusicInstrument{
 
 }

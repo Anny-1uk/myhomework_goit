@@ -1,4 +1,4 @@
 package thirdhomework1;
 
-public class video extends file{
+public class Video extends File{
 }
