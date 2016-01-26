@@ -10,7 +10,7 @@ public class Main {
 
         Rose [] roses = {rose1, rose2, rose3};
 
-        Rosebush rosebush = new Rosebush(rose1.getColor(),rose2.getLength(),roses);
+        Rosebush rosebush = new Rosebush(roses);
 
         Astra astra = new Astra("white", 20);
         Tulip tulip1 = new Tulip("white", 15);
